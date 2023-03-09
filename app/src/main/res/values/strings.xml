@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="movie_name">Nama Movie</string>
+    <string name="desc">Deskripsi</string>
+    <string name="list">list</string>
+    <string name="grid">Grid</string>
+    <string name="about">about</string>
+    <string name="deskripsi">Deskripsi:</string>
+    <string name="tahun">Tahun :</string>
+    <string name="batas">||</string>
+    <string name="DetailPage">Detail Of Movie</string>
+
+    <string-array name="name_data">
+        <item>Avatar the way of water</item>
+        <item>Ant-Man Wasp</item>
+        <item>Black Panther - Wakanda Forever</item>
+        <item>Adam River - 65</item>
+        <item>The Big 4</item>
+        <item>Decibel</item>
+        <item>Inang</item>
+        <item>Cafe Midnight</item>
+        <item>We Have A Ghost</item>
+        <item>Tom Shank is a Man Called Otto</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Set more than a decade after the events of the first film, “Avatar: The Way of Water” begins to tell the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.</item>
+        <item>Scott Lang (Paul Rudd), Hope Van Dyne (Evangeline Lilly) Dr. Hank Pym (Michael Douglas) dan Janet Van Dyne (Michelle Pfeiffer) menjelajahi Alam Kuantum, tempat mereka bertemu dengan makhluk aneh dan memulai petualangan yang melampaui batas yang mereka pikir mungkin.</item>
+        <item>Rakyat Wakanda kali ini akan berjuang untuk melindungi negerinya dari campur tangan kekuatan dunia setelah kematian sang Raja TChalla</item>
+        <item>65 adalah film thriller aksi fiksi ilmiah Amerika yang akan datang yang ditulis dan disutradarai oleh Scott Beck dan Bryan Woods. Itu dibintangi Adam Driver, Ariana Greenblatt dan Chloe Coleman.</item>
+        <item>The Big 4 adalah sebuah film aksi komedi Indonesia tahun 2022 yang disutradarai oleh Timo Tjahjanto. Film ini dibintangi oleh Abimana Aryasatya, Putri Marino, Lutesha, Arie Kriting, dan Kristo Immanuel. Film ini tayang secara global di Netflix sejak 15 Desember 2022.</item>
+        <item>Mantan perwira Angkatan Laut, Do-yeong mengidap gangguan stres pascatrauma usai selamat dari kecelakaan kapal selam yang menewaskan rekan-rekannya. </item>
+        <item>Wulan, seorang kasir supermarket ditinggalkan oleh pacarnya setelah mengetahui soal kehamilannya yang di luar rencana.Wulan yang enggan mengambil jalur aborsi, membuatnya harus bertanggung jawab atas kandungannya sendirian</item>
+        <item>A time-and-space fantasy drama with the theme of healing and growth at a café on Busan Sanbokdo, which is open from 12:00 p.m. to 12:00 p.m. until the sun comes out, but does not appear on the map.</item>
+        <item>We Have a Ghost adalah film komedi horor supernatural Amerika tahun 2023 yang ditulis dan disutradarai oleh Christopher Landon, berdasarkan cerita pendek tahun 2017 "Ernest" karya Geoff Manaugh.</item>
+        <item>Sepeninggal sang istri dan dipaksa pensiun dari pekerjaan setelah berbakti hampir 40 tahun, seorang pria 60 tahun nan pemarah, Otto Anderson berniat mengakhiri hidupnya sendiri.</item>
+    </string-array>
+    <string-array name="photo_data">
+        <item>https://assets-prd.ignimgs.com/2022/11/03/avatar-the-way-of-water-ver2-button-1667435596570.jpg</item>
+        <item>https://radarbanyumas.disway.id/upload/cbf9d479faa39dd6c1d6d76db1ef2139.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/duniaku/post/20230106/marvel-studios-black-panther-wakanda-forever-poster-1-b37ebf595ee684bcea3eaeac4fe0c8f5.jpg</item>
+        <item>https://www.layar.id/wp-content/uploads/2023/03/MV5BMmU4ODBhNmYtNDgxNy00Mjc1LWJmNWItZWJhM2M5MjA1MWE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg</item>
+        <item>https://occ-0-1556-38.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABX-6KImVlsu5jf7gOEDcJQK5u7cDw8EJwLqRWA0B6nK57QpKnvc61wH-4XY3BT0HUS9zJ56QEMdV5ZVNYQ1TowkZfb2K723NinI_.jpg?r=249</item>
+        <item>https://lsf.go.id/wp-content/uploads/2022/12/111.-PF-Decibel.jpg</item>
+        <item>https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/03/17/522532523.jpg</item>
+        <item>https://asianwiki.com/images/3/35/Cafe_Midnight-mp1.jpg</item>
+        <item>https://bacaterus.com/wp-content/uploads/2023/01/We-Have-a-Ghost_.webp</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>2022 || Fiksi Ilmiah || Rating: 4.5 </item>
+        <item>2023 || Petualangan || Rating: 4.3</item>
+        <item>2022 || Petualangan || Rating: 4.1</item>
+        <item>2023 || Fiksi Ilmiah || Rating: 4.8</item>
+        <item>2022 || Laga || Rating: 4.2</item>
+        <item>2022 || Laga / Drama || Rating: 4.7</item>
+        <item>2022 || Horror || Rating: 4.4</item>
+        <item>2022 || Serial Drama || Rating: 4.0</item>
+        <item>2023 || Komedi/Family || Rating: 3.7</item>
+        <item>2022 || Drama / Komedi || Rating: 4.7</item>
+    </string-array>
+</resources>
